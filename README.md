@@ -4,15 +4,15 @@ A clean and simple portfolio template built using React, if want a template buil
 
 ## Preview
 
-[See Live](https://abdulmukit-n.github.io/cleanfolio)
+[See Live](https://abdulmukit-n.github.io/SimplePortfolio)
 
 ## Instructions
 
 ### Setup
 
 ```shell
-git clone https://github.com/rajshekhar26/cleanfolio
-cd cleanfolio
+git clone https://github.com/abdulmukit-n/SimplePortfolio
+cd SimplePortfolio
 ```
 
 If you use [nvm](https://github.com/nvm-sh/nvm) or [fnm](https://github.com/Schniz/fnm) (optional) -
@@ -48,7 +48,7 @@ yarn start
 
 - Go to `package.json` file and replace -
 
-`"homepage": "https://abdulmukit-n.github.io/cleanfolio"`
+`"homepage": "https://abdulmukit-n.github.io/SimplePortfolio"`
 
 with `"homepage": "https://yourusername.github.io"`.
 
