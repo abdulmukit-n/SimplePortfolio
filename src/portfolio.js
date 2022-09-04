@@ -25,7 +25,7 @@ const projects = [
     description:
       "Driver automobile and safety detection system [First place STEM competition] \n • TensorFlow to train models for driver license detection \n • Open CV for training and checking driver health status for warnings \n • Application creation using Android Studio (java/kotlin) and database creation using NodeJS with MongoDB \n • Hosting on raspberry PI for mobility demonstration that technology can fit into a vehicle",
     stack: ['Python', 'nodeJS', 'OpenCV','Tensorflow'],
-    sourceCode: 'https://github.com',
+    sourceCode: 'https://github.com/abdulmukit-n/DASDS',
     livePreview: 'https://github.com',
   },
   {
