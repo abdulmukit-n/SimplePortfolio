@@ -1,6 +1,6 @@
 # Cleanfolio
 
-A clean and simple portfolio template built using React, if want a template built with HTML, CSS and JS.
+A clean and simple portfolio template built using React, if you want to use this template to build your very own portfoloio site with HTML, CSS and JS, please follow the subsequent instructions.
 
 ## Preview
 
