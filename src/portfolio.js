@@ -16,7 +16,7 @@ const about = {
     github: 'https://github.com/abdulmukit-n',
   },
 }
-
+ 
 const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
