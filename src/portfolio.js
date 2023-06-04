@@ -10,7 +10,7 @@ const about = {
   role: 'Software Engineer',
   description:
     "Hi, I have recieved my Bachelor's of Computer Science specializing in Cybersecurity at the University of Wollongong in Dubai and  I hope to be a full-stack web developer that is able to build complex apps and/or part of the Security industry.",
-  resume: 'https://example.com',
+  resume: 'https://abdulmukit-n.github.io/SimplePortfolio/Abdul_CV_github.pdf',
   social: {
     linkedin: 'www.linkedin.com/in/abdul-mukit-n',
     github: 'https://github.com/abdulmukit-n',
