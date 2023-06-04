@@ -9,8 +9,8 @@ const about = {
   name: 'Abdul Mukit Nagaria',
   role: 'Software Engineer',
   description:
-    "Hi, I have recieved my Bachelor's of Computer Science specializing in Cybersecurity at the University of Wollongong in Dubai and  I hope to be a full-stack web developer that is able to build complex apps and/or part of the Security industry.",
-  resume: 'https://abdulmukit-n.github.io/SimplePortfolio/Abdul_CV_github.pdf',
+    "Hi, I am a Software Engineer and Cybersecurity Enthusiast who is a motivated developer who cares about writing clean code and is passionate about delivering quality software. An efficient collaborator who has experience working with cross-functional teams utilizing the Agile methodology. Self-driven and with a passion for learning, looking for the right environment to apply and grow these skills.",
+  resume: 'https://www.linkedin.com/in/abdul-mukit-n/',
   social: {
     linkedin: 'www.linkedin.com/in/abdul-mukit-n',
     github: 'https://github.com/abdulmukit-n',
